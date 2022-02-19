@@ -1,3 +1,3 @@
-# Algoritmo de Huffman
+# Huffman algorithm
 
-Proyecto de Algoritmo de Huffman en C con decodificador a Hexadecimal.
+Huffman Algorithm project in C with Hexadecimal decoder.
